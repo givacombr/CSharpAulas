@@ -1,0 +1,17 @@
+C# - 01
+Introdução - Downloads - Instalações - Configurações
+Podemos baixar conteúdos de cursos no github do cfbcursos(www.github.com/cfbcursos)
+Baixar o visual studio code for windows - Visual Studio Community - download .net
+vamos usar o compilador csharp csc.exe
+cmd dos(csc + enter), se não executar deve-se baixar no site: https://dotnet.microsoft.com/download
+baixar no site da microsoft o dotnet core sdk, o framework dev parck e o runtime.
+baixar no site https://code.visualstudio.com/download
+instalando na sequencia Runtime, dotnet core sdk, framework dev parck, visual studio code
+no visual studio code após instalado, vá extension e pesquise por c# a primeira extenção c# for visual studio code microsft
+depois adicionar o compilador no path na variaveis de ambientes.Pesquisa Editar variáveis de ambiente no windows, procurar onde se encontrar o caminho do arquivo csc.exe,
+copie e cole na pasta da variaveis.Inicialização e Recuperação(Variaveis de Ambiente) + em variaveis do sistema procura o path e editar, caso seja uma versão antes do
+win10, deverá colocar um ponto e virgula no final da linha(;) e colar o caminho do arquivo, na versão superior clicar no botão novo, na nova janela cola o caminho que foi
+copiado pronto agora só salvar, caso queria fazer para o usuario vai seguir a mesma orientação, será necessário reeiniciar o computador.
+Agora devemos criar a pasta, onde deverá ficar armazenado os arquivos. Pasta Aulas e depois Aula01....Aula21... e assim por diante
+Devemos dar o caminho da pasta criada ao visual studio code(c:\c#\Aulas)
+No visual File\Open Folder(adicionar pasta).
